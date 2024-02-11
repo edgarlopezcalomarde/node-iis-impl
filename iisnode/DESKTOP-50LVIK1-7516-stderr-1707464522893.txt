@@ -1,0 +1,4 @@
+Application has thrown an uncaught exception and is terminated:
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\sites\api\server.js from C:\Program Files\iisnode\interceptor.js not supported.
+Instead change the require of server.js in C:\Program Files\iisnode\interceptor.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Program Files\iisnode\interceptor.js:210:1)
